@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = "jquery.fileupload-rails-new"
-  s.version     = "1.13.0"
+  s.version     = "1.13.1"
   s.author      = "Semyon Perepelitsa"
   s.email       = "sema@sema.in"
   s.homepage    = "https://github.com/topalantt/jquery.fileupload-rails"
