@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name        = "jquery.fileupload-rails-ui-6"
-  s.version     = "1.12.0"
+  s.name        = "jquery.fileupload-rails-new"
+  s.version     = "1.13.0"
   s.author      = "Semyon Perepelitsa"
   s.email       = "sema@sema.in"
   s.homepage    = "https://github.com/topalantt/jquery.fileupload-rails"

@@ -10,7 +10,7 @@ There are no instructions here on how to use the library itself.
 
 Add a line to your Gemfile.
 
-    gem 'jquery.fileupload-rails-ui-6'
+    gem 'jquery.fileupload-rails-new'
 
 Now you can require the javascript library in application.js:
 
@@ -38,6 +38,8 @@ After:
 If you downloaded jquery.ui assets into your project, delete them and use [jquery-ui-rails][2] gem instead.
 
 ## Changelog
+
+1.13.0. Compatibility with new jQuery UI Rails 7.0 (jQuery UI 1.13.0).
 
 1.12.0. Compatibility with new jQuery UI Rails 6.0 (jQuery UI 1.12.1).
 

@@ -24,7 +24,7 @@ demo/config/routes.rb
 demo/log/.gitkeep
 dependencies.json
 jQuery-File-Upload
-jquery.fileupload-rails-ui-6.gemspec
+jquery.fileupload-rails-new.gemspec
 lib/jquery.fileupload-rails.rb
 vendor/assets/javascripts/jquery.fileupload.js
 vendor/assets/javascripts/jquery.iframe-transport.js
