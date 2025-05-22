@@ -10,7 +10,7 @@ There are no instructions here on how to use the library itself.
 
 Add a line to your Gemfile.
 
-    gem 'jquery.fileupload-rails'
+    gem 'jquery.fileupload-rails-ui-6'
 
 Now you can require the javascript library in application.js:
 
